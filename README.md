@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shamishere
 - 👀 I’m interested in Bioinformatics
-- 🌱 I’m currently learning python and tools used in bioinformatics
+- 🌱 I’m currently learning python and tools used in bioinformatics specifically with respect to drug design and machine learning
 - 📫 How to reach me sham17anwar@gmail.com
 
 <!---
